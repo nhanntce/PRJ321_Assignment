@@ -1,0 +1,31 @@
+@media only screen and (max-width: 900px) {
+	.navbar {
+		padding-top: 0;
+		padding-bottom: 0;
+		position: relative;
+		width: 100%;
+		transition: 0.4s;
+	}
+
+	nav img {
+		height: 50px;
+		padding-left: 30px;
+		transition: 0.4s;
+	}
+	
+
+	nav.nav-bg {
+		z-index: 10;
+		background-color: #d54e4e;
+	}
+	
+	ul.navbar-nav {
+		height: 100vh;
+	}
+	ul li.nav-item {
+		border-bottom: 1px solid #e65f5f;
+		text-align: center;
+		padding: 10px 0;
+	}
+	
+}

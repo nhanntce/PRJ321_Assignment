@@ -1,0 +1,19 @@
+SMAP
+product_002dclient_jsp.java
+JSP
+*S JSP
+*F
++ 0 product-client.jsp
+product-client.jsp
+*L
+5,15:49
+19,84:64
+103,4:149
+106,11:153
+117,2:164,3
+119:170
+120:171,3
+121,6:174
+127,2:181
+128,440:183
+*E
